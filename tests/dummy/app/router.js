@@ -14,6 +14,7 @@ Router.map(function() {
   this.route('bar-chart');
   this.route('grouped-bars');
   this.route('invert');
+  this.route('nytimes-strikeouts');
 });
 
 export default Router;
